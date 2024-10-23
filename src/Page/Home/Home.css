@@ -1,7 +1,7 @@
 .home-container{
     text-align: center;
     height: 640px;
-    border: 1.5px solid black;
+    border: 1px solid black;
     
 }
 .introduce-container{
@@ -14,7 +14,7 @@
     padding: 0.5rem 0.5rem 0 0.5rem;
     border-radius: 0.5rem;
     background-color: rgb(255, 255, 255);
-    background-image: url('/public/Profile.jpg');
+    background-image: url('/src/assets/Profile.jpg');
     background-size: 100%;
     width: 200px;
     height: 200px;
