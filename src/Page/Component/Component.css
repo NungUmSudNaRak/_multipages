@@ -3,7 +3,7 @@
     border-radius: 0.5rem;
     padding: 2rem;
     width: 980px;
-    background-image: url('./ReactBackground.jpg')
+    background-image: url('/public/ReactBackground.jpg')
     /* background-size: 100%; */
   }
   .main-title{
