@@ -37,7 +37,7 @@ function Carts({ carts, setCarts }) {
           }, 0)
           .toFixed(2)}
       </h4>
-      <button>Chech Out</button>
+      <button>Check Out</button>
     </div>
   );
 }
